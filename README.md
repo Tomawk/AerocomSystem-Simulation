@@ -22,3 +22,8 @@ At least the following two scenarios have to be evaluated:
 * Exponential distribution of t and k;
 * Lognormal distribution of t and k;
 In all cases, it is up to the team to calibrate the scenarios so that meaningful results are obtained.
+
+# Screenshots
+
+![alt text](https://github.com/Tomawk/aerocom_system_simulation/blob/main/Screenshots/Screenshot%20(289).png?raw=true)
+![alt text](https://github.com/Tomawk/aerocom_system_simulation/blob/main/Screenshots/Screenshot%20(290).png?raw=true)
