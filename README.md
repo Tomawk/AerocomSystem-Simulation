@@ -1,4 +1,4 @@
-# aerocom_system_group5
+# Aerocom System - Simulation
 
 Omnet++ Simulation group project done for the exam of Performance Evaluation at my second cycle degree in Computer Engineering.
 
